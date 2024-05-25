@@ -2,4 +2,7 @@
 
 ## Objetivo:
 Otimizar o sistema bancário, incluindo cliente, cadastro de pessoa física, conta, tipo de conta e registro de transação usando POO.
+
+## Modelagem
+Realizada modelagem através de UML
  
